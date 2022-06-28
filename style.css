@@ -1,1 +1,33 @@
+canvas {
+    border:1px solid #d3d3d3;
+    background-color: #f1f1f1;
+    width: 685px;
+    margin-left: 255px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+}
 
+body{
+  background-color: grey;
+}
+
+
+#resetandhome{
+  margin-top: 10px;
+  margin-left: 450px;
+  float: left;
+  clear: both;
+  padding-left: 10px;
+}
+
+#home{
+  height: 88px;
+}
+#quote{
+  border-style: solid;
+  border-color: black;
+  background-color: white;
+  margin-left:50px;
+  margin-top: 10px;
+}
