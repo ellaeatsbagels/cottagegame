@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"> <meta name = "viewport" content="width=device-width, initial-scale=1.0"/>
+<title>repl.it</title>
+<link href = "style.css" rel = "stylesheet" type = "text/css" />
+</head>
+<div id = "centercanvas">
+<body onload="startGame()">
+</div>
+<div style="text-align:center;width:1200px;">
+<button onmousedown="moveup()" ontouchstart="moveup()">UP</button><br><br>
+<button onmousedown="moveleft()" ontouchstart="moveleft()">LEFT</button>
+<button onmousedown="moveright()" ontouchstart="moveright()">RIGHT</button><br><br>
+<button onmousedown="movedown()"  ontouchstart="movedown()">DOWN</button>
+</div>
+<div style = "text-align:center;width:1200px; margin-top: 40px;">
+<a href="game.html">
+  <div id = "resetandhome">
+<img src= "images/reset.png" style = "width: 200px;" alt = "restart">
+</a>
+<a href = "index.html">
+  <img id="home" src = "images/home.png"/>
+</a>
+</div>
+<script src = "script.js"></script>
+</body>
+</html>
