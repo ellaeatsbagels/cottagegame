@@ -1,0 +1,57 @@
+#greg{
+  height: 200px;
+}
+#start{
+  height: 100px;
+  padding-bottom: 80px;
+}
+#rowley{
+  height: 200px;
+}
+#rodrick{
+height: 200px;
+}
+#susan{
+  height: 200px;
+}
+#frank {
+  height: 200px;
+}
+#robert{
+  height: 200px;
+}
+#manny{
+  height: 100px;
+}
+#grandpa{
+  height: 200px;
+}
+#grandma{
+  height: 200px;
+}
+#fregley{
+  height: 200px;
+}
+h1{
+  text-align: center;
+}
+#main{
+  margin-top: 30px;
+  margin-left: 140px;
+  width: 100%;
+  padding: 10px;
+}
+#tutorial{
+  height: 80px;
+  margin-left:384px;
+}
+#title{
+  background-color: grey;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: black;
+}
+#bottom{
+  height: 350px;
+  margin-top: 100px;
+}
